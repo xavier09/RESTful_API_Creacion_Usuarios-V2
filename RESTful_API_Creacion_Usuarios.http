@@ -1,0 +1,6 @@
+@API_RESTful_Creacion_Usuarios_HostAddress = http://localhost:5185
+
+GET {{API_RESTful_Creacion_Usuarios_HostAddress}}/UsuarioDto/
+Accept: application/json
+
+###
