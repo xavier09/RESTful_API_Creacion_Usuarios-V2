@@ -1,9 +1,15 @@
 Herramientas usadas:
 
 Visual Studio 2022 con .net 8 C# para el desarrollo.
+
 microsoft sql management studio con sql express para la base de datos.
+
 Swagger (ya integrado en el proyecto de la API) para hacer las pruebas.
+
 Lucidchart para el diagrama de solucion.
+
+
+
 
 Pasos para hacer las pruebas:
 
